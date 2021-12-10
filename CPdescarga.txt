@@ -1,0 +1,502 @@
+01000|San Ángel|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|0001|Urbano|01
+01010|Los Alpes|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|0005|Urbano|01
+01020|Guadalupe Inn|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|0006|Urbano|01
+01030|Axotla|Pueblo|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||28|010|0009|Urbano|01
+01030|Florida|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|0010|Urbano|01
+01040|Campestre|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|0012|Urbano|01
+01049|Tlacopac|Pueblo|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||28|010|0014|Urbano|01
+01050|Ex-Hacienda de Guadalupe Chimalistac|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|0016|Urbano|01
+01060|Altavista|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|0017|Urbano|01
+01060|San Ángel Inn|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|0018|Urbano|01
+01070|Chimalistac|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|0019|Urbano|01
+01080|Progreso Tizapan|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|0022|Urbano|01
+01089|Ermita Tizapan|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|0024|Urbano|01
+01090|La Otra Banda|Barrio|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||02|010|0025|Urbano|01
+01090|Loreto|Barrio|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||02|010|0026|Urbano|01
+01090|Tizapan|Pueblo|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||28|010|0028|Urbano|01
+01100|Pólvora|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01131|09|01131||09|010|0031|Urbano|01
+01109|La Conchita|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01131|09|01131||09|010|0033|Urbano|01
+01110|Belém de las Flores|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01131|09|01131||09|010|0034|Urbano|01
+01110|El Capulín|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01131|09|01131||09|010|0036|Urbano|01
+01110|Ampliación El Capulín|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01131|09|01131||09|010|0037|Urbano|01
+01110|Liberales de 1857|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01131|09|01131||09|010|0039|Urbano|01
+01120|Acueducto|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01131|09|01131||09|010|0042|Urbano|01
+01120|Cove|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01131|09|01131||09|010|0044|Urbano|01
+01120|Hidalgo|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01131|09|01131||09|010|0046|Urbano|01
+01120|Las Américas|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01131|09|01131||09|010|0047|Urbano|01
+01125|Ampliación Acueducto|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01131|09|01131||09|010|0043|Urbano|01
+01130|Paraíso|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01131|09|01131||09|010|0052|Urbano|01
+01130|Molino de Santo Domingo|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01131|09|01131||09|010|0053|Urbano|01
+01130|Real del Monte|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01131|09|01131||09|010|0056|Urbano|01
+01139|Reacomodo Pino Suárez|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01131|09|01131||09|010|0058|Urbano|01
+01140|Bellavista|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01131|09|01131||09|010|0059|Urbano|01
+01140|José Maria Pino Suárez|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01131|09|01131||09|010|0060|Urbano|01
+01150|Cristo Rey|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01131|09|01131||09|010|0063|Urbano|01
+01150|Tolteca|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01131|09|01131||09|010|0064|Urbano|01
+01160|Bosque|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01131|09|01131||09|010|0066|Urbano|01
+01160|Isidro Fabela|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01131|09|01131||09|010|0067|Urbano|01
+01160|Maria G. de García Ruiz|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01131|09|01131||09|010|0068|Urbano|01
+01160|1a Victoria|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01131|09|01131||09|010|0069|Urbano|01
+01170|Abraham M. González|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01131|09|01131||09|010|0074|Urbano|01
+01180|Carola|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01131|09|01131||09|010|0076|Urbano|01
+01180|8 de Agosto|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01131|09|01131||09|010|0077|Urbano|01
+01180|San Pedro de los Pinos|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01131|09|01131||09|010|0078|Urbano|01
+01200|Arturo Martínez|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0079|Urbano|01
+01210|Santa Fe|Pueblo|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||28|010|0082|Urbano|01
+01219|Lomas de Santa Fe|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0084|Urbano|01
+01220|La Estrella|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|2681|Urbano|01
+01220|Bonanza|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0085|Urbano|01
+01220|Cuevitas|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0086|Urbano|01
+01220|El Cuernito|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0087|Urbano|01
+01220|Mártires de Tacubaya|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0089|Urbano|01
+01220|Zenón Delgado|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0090|Urbano|01
+01230|Campo de Tiro los Gamitos|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0092|Urbano|01
+01230|Los Gamitos|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0097|Urbano|01
+01230|Tlapechico|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0098|Urbano|01
+01230|El Piru Santa Fe|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0132|Urbano|01
+01230|El Piru 2a Ampliación|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0224|Urbano|01
+01239|La Huerta|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0102|Urbano|01
+01240|Pueblo Nuevo|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0103|Urbano|01
+01250|El Árbol|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0104|Urbano|01
+01250|Ladera|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0105|Urbano|01
+01250|Lomas de Nuevo México|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0106|Urbano|01
+01250|Margarita Maza de Juárez|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0107|Urbano|01
+01250|Tecolalco|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0108|Urbano|01
+01259|Ampliación La Cebada|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0109|Urbano|01
+01259|La Mexicana 2a Ampliación|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|2845|Urbano|01
+01260|Calzada Jalalpa|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0110|Urbano|01
+01260|La Mexicana|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0112|Urbano|01
+01260|Ampliación La Mexicana|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0113|Urbano|01
+01260|La Palmita|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0114|Urbano|01
+01260|Liberación Proletaria|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0115|Urbano|01
+01269|1a Sección Cañada|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0117|Urbano|01
+01269|2a Sección Cañada|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0118|Urbano|01
+01270|El Tejocote|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0120|Urbano|01
+01270|La Presa|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0121|Urbano|01
+01270|Golondrinas|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0123|Urbano|01
+01270|Golondrinas 1a Sección|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0124|Urbano|01
+01270|Golondrinas 2a Sección|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0125|Urbano|01
+01270|Lomas de Capula|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0127|Urbano|01
+01275|Villa Solidaridad|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0131|Urbano|01
+01276|El Pirul|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0093|Urbano|01
+01278|Desarrollo Urbano|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0133|Urbano|01
+01279|Lomas de Becerra|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0136|Urbano|01
+01280|Arvide|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0138|Urbano|01
+01280|El Pocito|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0139|Urbano|01
+01280|Francisco Villa|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0140|Urbano|01
+01280|La Joya|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0141|Urbano|01
+01285|El Rodeo|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0144|Urbano|01
+01289|Reacomodo El Cuernito|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0146|Urbano|01
+01290|Piloto Adolfo López Mateos|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0147|Urbano|01
+01290|Presidentes|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0148|Urbano|01
+01296|Jalalpa Tepito 2a Ampliación|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0152|Urbano|01
+01296|Ampliación Jalalpa|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0153|Urbano|01
+01296|Jalalpa Tepito|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0154|Urbano|01
+01298|Ampliación Piloto Adolfo López Mateos|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0156|Urbano|01
+01299|1a Ampliación Presidentes|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0160|Urbano|01
+01299|2a Ampliación Presidentes|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0161|Urbano|01
+01310|San Gabriel|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0163|Urbano|01
+01320|Carlos A. Madrazo|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0164|Urbano|01
+01330|Paseo de las Lomas|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0168|Urbano|01
+01340|Bejero del Pueblo Santa Fe|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0170|Urbano|01
+01376|Santa Fe|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0171|Urbano|01
+01376|Santa Fe Peña Blanca|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|2682|Urbano|01
+01376|Santa Fe La Loma|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|2683|Urbano|01
+01376|Santa Fe Centro Ciudad|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|2864|Urbano|01
+01377|Jalalpa El Grande|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0172|Urbano|01
+01389|Santa Fe Tlayapaca|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0176|Urbano|01
+01400|Olivar del Conde 1a Sección|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0181|Urbano|01
+01400|Preconcreto|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0184|Urbano|01
+01407|Galeana|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0187|Urbano|01
+01408|Olivar del Conde 2a Sección|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0188|Urbano|01
+01410|Barrio Norte|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0193|Urbano|01
+01410|Palmas|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0194|Urbano|01
+01419|Minas Cristo Rey|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0195|Urbano|01
+01420|Sacramento|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0196|Urbano|01
+01420|Santa María Nonoalco|Barrio|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||02|010|0197|Urbano|01
+01430|Colina del Sur|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0198|Urbano|01
+01450|Hogar y Redención|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0202|Urbano|01
+01460|Alfonso XIII|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0204|Urbano|01
+01470|Alfalfar|Barrio|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||02|010|0206|Urbano|01
+01470|Molino de Rosas|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0207|Urbano|01
+01480|Lomas de Plateros|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0209|Urbano|01
+01490|La Cascada|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0211|Urbano|01
+01500|Santa Lucía|Pueblo|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||28|010|0213|Urbano|01
+01500|Miguel Gaona Armenta|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|2704|Urbano|01
+01509|Santa Lucía Chantepec|Pueblo|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||28|010|0221|Urbano|01
+01510|Garcimarrero|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0222|Urbano|01
+01510|La Araña|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0223|Urbano|01
+01510|Los Cedros|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|2636|Urbano|01
+01520|Ampliación Los Pirules|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0094|Urbano|01
+01520|Estado de Hidalgo|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0225|Urbano|01
+01520|Ampliación Estado de Hidalgo|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0226|Urbano|01
+01520|Piru Santa Lucía|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0227|Urbano|01
+01520|El Politoco|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|2841|Urbano|01
+01530|Corpus Christy|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0229|Urbano|01
+01538|Tepopotla|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0232|Urbano|01
+01539|Acuilotla|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0233|Urbano|01
+01539|Cooperativa Unión Olivos|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|2643|Urbano|01
+01540|Balcones de Cehuayo|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0238|Urbano|01
+01540|Cehuaya|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0239|Urbano|01
+01540|Llano Redondo|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0240|Urbano|01
+01540|Punta de Cehuaya|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0241|Urbano|01
+01548|Villa Progresista|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|2638|Urbano|01
+01549|Dos Ríos del Pueblo Santa Lucía|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0243|Urbano|01
+01550|Tepeaca|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0245|Urbano|01
+01550|Ampliación Tepeaca|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0246|Urbano|01
+01550|Rinconada Las Cuevitas|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|2849|Urbano|01
+01560|Ave Real|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0248|Urbano|01
+01560|Canutillo|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0249|Urbano|01
+01560|Canutillo 3a Sección|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0250|Urbano|01
+01560|Canutillo 2a Sección|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0251|Urbano|01
+01566|Hueytlale|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|2747|Urbano|01
+01569|Reacomodo Valentín Gómez Farías|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0255|Urbano|01
+01588|Tarango|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0259|Urbano|01
+01590|El Rincón|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0261|Urbano|01
+01600|Merced Gómez|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0263|Urbano|01
+01610|Colinas de Tarango|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0265|Urbano|01
+01610|Profesor J. Arturo López Martínez|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|2639|Urbano|01
+01618|Arcos Centenario|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0267|Urbano|01
+01618|Ex-Hacienda de Tarango|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|2745|Urbano|01
+01619|La Martinica|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0268|Urbano|01
+01619|Rinconada de Tarango|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0269|Urbano|01
+01620|Lomas de Tarango|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0270|Urbano|01
+01630|Lomas de Puerta Grande|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0271|Urbano|01
+01630|Puerta Grande|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0273|Urbano|01
+01630|Los Juristas|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|2640|Urbano|01
+01640|Herón Proal|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0275|Urbano|01
+01645|Ponciano Arriaga|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0276|Urbano|01
+01650|La Milagrosa|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0277|Urbano|01
+01650|Palmas Axotitla|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0278|Urbano|01
+01650|Tlacuitlapa|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0279|Urbano|01
+01650|Ampliación Tlacuitlapa|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0280|Urbano|01
+01650|2o Reacomodo Tlacuitlapa|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|0281|Urbano|01
+01650|El Ruedo|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|2844|Urbano|01
+01650|Santa Lucía Chantepec|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01401|09|01401||09|010|2848|Urbano|01
+01700|La Joyita del Pueblo Tetelpan|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|0282|Urbano|01
+01700|Ocotillos del Pueblo Tetelpan|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|0283|Urbano|01
+01700|San Agustín del Pueblo Tetelpan|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|0284|Urbano|01
+01700|2a Del Moral del Pueblo Tetelpan|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|0285|Urbano|01
+01700|Tecalcapa del Pueblo Tetelpan|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|0286|Urbano|01
+01700|Tetelpan|Pueblo|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||28|010|0287|Urbano|01
+01708|El Encino del Pueblo Tetelpan|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|0291|Urbano|01
+01708|El Mirador del Pueblo Tetelpan|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|0292|Urbano|01
+01710|Las Águilas|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|0294|Urbano|01
+01710|Ampliación Alpes|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|0295|Urbano|01
+01720|Lomas de Guadalupe|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|0297|Urbano|01
+01729|Alcantarilla|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|0298|Urbano|01
+01730|Lomas de las Águilas|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|0299|Urbano|01
+01730|Puente Colorado|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|0300|Urbano|01
+01740|La Peñita del Pueblo Tetelpan|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|0303|Urbano|01
+01740|San Clemente Norte|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|0304|Urbano|01
+01740|San Clemente Sur|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|2842|Urbano|01
+01750|Las Águilas 1a Sección|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|0305|Urbano|01
+01750|Las Águilas 2o Parque|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|0306|Urbano|01
+01750|Las Águilas 3er Parque|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|0307|Urbano|01
+01759|Ampliación Las Águilas|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|0308|Urbano|01
+01760|Atlamaya|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|0309|Urbano|01
+01760|Flor de María|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|0310|Urbano|01
+01760|La Herradura del Pueblo Tetelpan|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|0311|Urbano|01
+01770|La Angostura|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|0315|Urbano|01
+01770|San José del Olivar|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|0316|Urbano|01
+01780|Olivar de los Padres|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|0318|Urbano|01
+01780|Tizampampano del Pueblo Tetelpan|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|0319|Urbano|01
+01789|Miguel Hidalgo|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|0323|Urbano|01
+01790|Lomas de los Ángeles del Pueblo Tetelpan|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|0324|Urbano|01
+01790|Lomas de San Ángel Inn|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|0325|Urbano|01
+01800|San Bartolo Ameyalco|Pueblo|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||28|010|0327|Urbano|01
+01807|Rancho San Francisco Pueblo San Bartolo Ameyalco|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|0328|Urbano|01
+01810|Villa Verdún|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|0330|Urbano|01
+01820|Lomas Axomiatla|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|0332|Urbano|01
+01820|Ejido San Mateo|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|2843|Urbano|01
+01830|Santa Rosa Xochiac|Pueblo|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||28|010|0333|Urbano|01
+01840|Torres de Potrero|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|0334|Urbano|01
+01849|Rincón de la Bolsa|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|0337|Urbano|01
+01849|Rancho del Carmen del Pueblo San Bartolo Ameyalco|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|2847|Urbano|01
+01857|Lomas de Chamontoya|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|0341|Urbano|01
+01859|Tlacoyaque|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|0343|Urbano|01
+01860|Lomas de La Era|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|0344|Urbano|01
+01863|Lomas del Capulín|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|0003|Urbano|01
+01870|Lomas de los Cedros|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|0345|Urbano|01
+01900|Jardines del Pedregal|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|0347|Urbano|01
+01904|San Jerónimo Aculco|Colonia|Álvaro Obregón|Ciudad de México|Ciudad de México|01001|09|01001||09|010|2846|Urbano|01
+02000|Centro de Azcapotzalco|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02011|09|02011||09|002|0353|Urbano|02
+02010|Los Reyes|Barrio|Azcapotzalco|Ciudad de México|Ciudad de México|02011|09|02011||02|002|0356|Urbano|02
+02010|San Rafael|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02011|09|02011||09|002|0357|Urbano|02
+02010|Nuevo Barrio San Rafael|Barrio|Azcapotzalco|Ciudad de México|Ciudad de México|02011|09|02011||02|002|0358|Urbano|02
+02020|San Marcos|Barrio|Azcapotzalco|Ciudad de México|Ciudad de México|02011|09|02011||02|002|0360|Urbano|02
+02020|Santo Tomás|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02011|09|02011||09|002|0361|Urbano|02
+02040|Del Maestro|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02011|09|02011||09|002|0362|Urbano|02
+02040|San Sebastián|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02011|09|02011||09|002|0363|Urbano|02
+02050|Libertad|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02011|09|02011||09|002|0364|Urbano|02
+02050|Santa María Malinalco|Pueblo|Azcapotzalco|Ciudad de México|Ciudad de México|02011|09|02011||28|002|0365|Urbano|02
+02060|Sindicato Mexicano de Electricistas|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02011|09|02011||09|002|0368|Urbano|02
+02060|Un Hogar Para Cada Trabajador|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02011|09|02011||09|002|0369|Urbano|02
+02070|Del Recreo|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02011|09|02011||09|002|0371|Urbano|02
+02070|Nextengo|Barrio|Azcapotzalco|Ciudad de México|Ciudad de México|02011|09|02011||02|002|0372|Urbano|02
+02080|Clavería|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02011|09|02011||09|002|0374|Urbano|02
+02080|Sector Naval|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02011|09|02011||09|002|0376|Urbano|02
+02090|San Álvaro|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02011|09|02011||09|002|0377|Urbano|02
+02099|Ángel Zimbrón|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02011|09|02011||09|002|0378|Urbano|02
+02100|El Rosario|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02011|09|02011||09|002|0379|Urbano|02
+02120|San Martín Xochinahuac|Pueblo|Azcapotzalco|Ciudad de México|Ciudad de México|02011|09|02011||28|002|0385|Urbano|02
+02128|Nueva El Rosario|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02011|09|02011||09|002|0389|Urbano|02
+02129|Nueva España|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02011|09|02011||09|002|0390|Urbano|02
+02130|Tierra Nueva|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02011|09|02011||09|002|0391|Urbano|02
+02140|Santa Inés|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02011|09|02011||09|002|0392|Urbano|02
+02150|Pasteros|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02011|09|02011||09|002|0393|Urbano|02
+02160|Santo Domingo|Pueblo|Azcapotzalco|Ciudad de México|Ciudad de México|02011|09|02011||28|002|0394|Urbano|02
+02200|Reynosa Tamaulipas|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02011|09|02011||09|002|0396|Urbano|02
+02230|Santa Bárbara|Pueblo|Azcapotzalco|Ciudad de México|Ciudad de México|02011|09|02011||28|002|0397|Urbano|02
+02240|San Andrés|Barrio|Azcapotzalco|Ciudad de México|Ciudad de México|02011|09|02011||02|002|0398|Urbano|02
+02240|San Andrés|Pueblo|Azcapotzalco|Ciudad de México|Ciudad de México|02011|09|02011||28|002|0399|Urbano|02
+02250|Santa Catarina|Pueblo|Azcapotzalco|Ciudad de México|Ciudad de México|02011|09|02011||28|002|0400|Urbano|02
+02300|Industrial Vallejo|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02601|09|02601||09|002|0402|Urbano|02
+02310|Ferrería|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02601|09|02601||09|002|0404|Urbano|02
+02320|San Andrés de las Salinas|Pueblo|Azcapotzalco|Ciudad de México|Ciudad de México|02601|09|02601||28|002|0405|Urbano|02
+02330|Huautla de las Salinas|Barrio|Azcapotzalco|Ciudad de México|Ciudad de México|02601|09|02601||02|002|0406|Urbano|02
+02340|Santa Cruz de las Salinas|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02601|09|02601||09|002|0407|Urbano|02
+02360|Las Salinas|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02601|09|02601||09|002|0409|Urbano|02
+02400|San Juan Tlihuaca|Pueblo|Azcapotzalco|Ciudad de México|Ciudad de México|02431|09|02431||28|002|0410|Urbano|02
+02410|Prados del Rosario|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02431|09|02431||09|002|0412|Urbano|02
+02420|Ex-Hacienda El Rosario|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02431|09|02431||09|002|0415|Urbano|02
+02440|Providencia|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02431|09|02431||09|002|0418|Urbano|02
+02459|Tezozomoc|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02431|09|02431||09|002|0421|Urbano|02
+02460|La Preciosa|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02431|09|02431||09|002|0422|Urbano|02
+02470|Ampliación Petrolera|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02431|09|02431||09|002|0423|Urbano|02
+02480|Petrolera|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02431|09|02431||09|002|0425|Urbano|02
+02490|San Mateo|Barrio|Azcapotzalco|Ciudad de México|Ciudad de México|02431|09|02431||02|002|0427|Urbano|02
+02500|Unidad Cuitláhuac|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02011|09|02011||09|002|0428|Urbano|02
+02519|El Jagüey|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02011|09|02011||09|002|0430|Urbano|02
+02520|Estación Pantaco|Equipamiento|Azcapotzalco|Ciudad de México|Ciudad de México|02601|09|02601||17|002|0431|Urbano|02
+02530|Jardín Azpeitia|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02011|09|02011||09|002|0439|Urbano|02
+02600|Pro-Hogar|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02601|09|02601||09|002|0441|Urbano|02
+02630|Coltongo|Barrio|Azcapotzalco|Ciudad de México|Ciudad de México|02601|09|02601||02|002|0443|Urbano|02
+02630|Coltongo|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02601|09|02601||09|002|2798|Urbano|02
+02640|Monte Alto|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02601|09|02601||09|002|0444|Urbano|02
+02650|Trabajadores de Hierro|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02601|09|02601||09|002|0445|Urbano|02
+02660|Euzkadi|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02601|09|02601||09|002|0446|Urbano|02
+02670|Cosmopolita|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02601|09|02601||09|002|0447|Urbano|02
+02680|Potrero del Llano|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02601|09|02601||09|002|0448|Urbano|02
+02700|San Miguel Amantla|Pueblo|Azcapotzalco|Ciudad de México|Ciudad de México|02431|09|02431||28|002|0449|Urbano|02
+02710|San Pedro Xalpa|Pueblo|Azcapotzalco|Ciudad de México|Ciudad de México|02431|09|02431||28|002|0451|Urbano|02
+02719|Ampliación San Pedro Xalpa|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02431|09|02431||09|002|0454|Urbano|02
+02720|San Antonio|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02431|09|02431||09|002|0456|Urbano|02
+02720|San Bartolo Cahualtongo|Pueblo|Azcapotzalco|Ciudad de México|Ciudad de México|02431|09|02431||28|002|0457|Urbano|02
+02730|San Francisco Tetecala|Pueblo|Azcapotzalco|Ciudad de México|Ciudad de México|02431|09|02431||28|002|0459|Urbano|02
+02750|Santiago Ahuizotla|Pueblo|Azcapotzalco|Ciudad de México|Ciudad de México|02431|09|02431||28|002|0461|Urbano|02
+02760|Industrial San Antonio|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02431|09|02431||09|002|0462|Urbano|02
+02760|Santa Lucía|Barrio|Azcapotzalco|Ciudad de México|Ciudad de México|02431|09|02431||02|002|0463|Urbano|02
+02770|Santa Cruz Acayucan|Pueblo|Azcapotzalco|Ciudad de México|Ciudad de México|02431|09|02431||28|002|0464|Urbano|02
+02780|Plenitud|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02431|09|02431||09|002|0465|Urbano|02
+02790|Santa Apolonia|Barrio|Azcapotzalco|Ciudad de México|Ciudad de México|02431|09|02431||02|002|0466|Urbano|02
+02800|Nueva Santa María|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02601|09|02601||09|002|0467|Urbano|02
+02810|Ignacio Allende|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02601|09|02601||09|002|0469|Urbano|02
+02810|Victoria de las Democracias|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02601|09|02601||09|002|0470|Urbano|02
+02830|San Bernabé|Barrio|Azcapotzalco|Ciudad de México|Ciudad de México|02601|09|02601||02|002|0473|Urbano|02
+02840|Obrero Popular|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02601|09|02601||09|002|0474|Urbano|02
+02860|Tlatilco|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02601|09|02601||09|002|0476|Urbano|02
+02870|San Salvador Xochimanca|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02601|09|02601||09|002|0477|Urbano|02
+02900|Aguilera|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02601|09|02601||09|002|0478|Urbano|02
+02910|Aldana|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02601|09|02601||09|002|0479|Urbano|02
+02920|Ampliación Cosmopolita|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02601|09|02601||09|002|0480|Urbano|02
+02930|Liberación|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02601|09|02601||09|002|0481|Urbano|02
+02940|Porvenir|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02601|09|02601||09|002|0482|Urbano|02
+02950|Del Gas|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02601|09|02601||09|002|0483|Urbano|02
+02960|San Francisco Xocotitla|Pueblo|Azcapotzalco|Ciudad de México|Ciudad de México|02601|09|02601||28|002|0484|Urbano|02
+02970|Ampliación Del Gas|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02601|09|02601||09|002|0485|Urbano|02
+02980|Arenal|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02601|09|02601||09|002|0486|Urbano|02
+02980|Patrimonio Familiar|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02601|09|02601||09|002|0487|Urbano|02
+02990|La Raza|Colonia|Azcapotzalco|Ciudad de México|Ciudad de México|02601|09|02601||09|002|0488|Urbano|02
+03000|Piedad Narvarte|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03001|09|03001||09|014|0489|Urbano|03
+03010|Atenor Salas|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03001|09|03001||09|014|0491|Urbano|03
+03020|Narvarte Poniente|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03001|09|03001||09|014|0493|Urbano|03
+03023|Narvarte Oriente|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03001|09|03001||09|014|2623|Urbano|03
+03100|Del Valle Centro|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03001|09|03001||09|014|0496|Urbano|03
+03100|Insurgentes San Borja|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03001|09|03001||09|014|2624|Urbano|03
+03103|Del Valle Norte|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03001|09|03001||09|014|2621|Urbano|03
+03104|Del Valle Sur|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03001|09|03001||09|014|2622|Urbano|03
+03200|Tlacoquemécatl|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03001|09|03001||09|014|0501|Urbano|03
+03230|Actipan|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03001|09|03001||09|014|0505|Urbano|03
+03240|Acacias|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03001|09|03001||09|014|0506|Urbano|03
+03300|Portales Sur|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03501|09|03501||09|014|0507|Urbano|03
+03303|Portales Norte|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03501|09|03501||09|014|2625|Urbano|03
+03310|Santa Cruz Atoyac|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03501|09|03501||09|014|0509|Urbano|03
+03320|Residencial Emperadores|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03501|09|03501||09|014|0512|Urbano|03
+03330|Xoco|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03501|09|03501||09|014|0513|Urbano|03
+03340|General Pedro María Anaya|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03501|09|03501||09|014|0515|Urbano|03
+03400|Álamos|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03501|09|03501||09|014|0516|Urbano|03
+03410|Postal|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03501|09|03501||09|014|0518|Urbano|03
+03420|Miguel Alemán|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03501|09|03501||09|014|0519|Urbano|03
+03430|Josefa Ortiz de Domínguez|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03501|09|03501||09|014|0521|Urbano|03
+03440|Niños Héroes|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03501|09|03501||09|014|0522|Urbano|03
+03500|Nativitas|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03501|09|03501||09|014|0523|Urbano|03
+03510|Moderna|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03501|09|03501||09|014|0525|Urbano|03
+03520|Iztaccihuatl|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03501|09|03501||09|014|0526|Urbano|03
+03530|Villa de Cortes|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03501|09|03501||09|014|0527|Urbano|03
+03540|Del Carmen|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03501|09|03501||09|014|0528|Urbano|03
+03550|Zacahuitzco|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03501|09|03501||09|014|0529|Urbano|03
+03560|Albert|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03501|09|03501||09|014|0530|Urbano|03
+03570|Portales Oriente|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03501|09|03501||09|014|0531|Urbano|03
+03580|Miravalle|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03501|09|03501||09|014|0532|Urbano|03
+03590|Ermita|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03501|09|03501||09|014|0533|Urbano|03
+03600|Vértiz Narvarte|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03501|09|03501||09|014|0534|Urbano|03
+03610|Américas Unidas|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03501|09|03501||09|014|0535|Urbano|03
+03620|Periodista|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03501|09|03501||09|014|0536|Urbano|03
+03630|Independencia|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03501|09|03501||09|014|0537|Urbano|03
+03640|Del Lago|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03501|09|03501||09|014|0538|Urbano|03
+03650|Letrán Valle|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03501|09|03501||09|014|0539|Urbano|03
+03660|San Simón Ticumac|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03501|09|03501||09|014|0540|Urbano|03
+03700|Santa María Nonoalco|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03901|09|03901||09|014|0541|Urbano|03
+03710|Ciudad de los Deportes|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03901|09|03901||09|014|0542|Urbano|03
+03720|Nochebuena|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03901|09|03901||09|014|0543|Urbano|03
+03730|San Juan|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03901|09|03901||09|014|0544|Urbano|03
+03740|Extremadura Insurgentes|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03901|09|03901||09|014|0545|Urbano|03
+03800|San Pedro de los Pinos|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03901|09|03901||09|014|0546|Urbano|03
+03810|Nápoles|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03901|09|03901||09|014|0548|Urbano|03
+03820|8 de Agosto|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03901|09|03901||09|014|0552|Urbano|03
+03840|Ampliación Nápoles|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03901|09|03901||09|014|0554|Urbano|03
+03900|San José Insurgentes|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03901|09|03901||09|014|0556|Urbano|03
+03910|Mixcoac|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03901|09|03901||09|014|0558|Urbano|03
+03920|Insurgentes Mixcoac|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03901|09|03901||09|014|0559|Urbano|03
+03930|Merced Gómez|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03901|09|03901||09|014|0561|Urbano|03
+03940|Crédito Constructor|Colonia|Benito Juárez|Ciudad de México|Ciudad de México|03901|09|03901||09|014|0562|Urbano|03
+04000|Villa Coyoacán|Colonia|Coyoacán|Ciudad de México|Ciudad de México|03501|09|03501||09|003|0563|Urbano|04
+04010|Santa Catarina|Barrio|Coyoacán|Ciudad de México|Ciudad de México|03501|09|03501||02|003|0566|Urbano|04
+04020|La Concepción|Barrio|Coyoacán|Ciudad de México|Ciudad de México|03501|09|03501||02|003|0567|Urbano|04
+04030|San Lucas|Barrio|Coyoacán|Ciudad de México|Ciudad de México|03501|09|03501||02|003|0569|Urbano|04
+04040|Parque San Andrés|Colonia|Coyoacán|Ciudad de México|Ciudad de México|03501|09|03501||09|003|0570|Urbano|04
+04100|Del Carmen|Colonia|Coyoacán|Ciudad de México|Ciudad de México|03501|09|03501||09|003|0571|Urbano|04
+04120|San Diego Churubusco|Colonia|Coyoacán|Ciudad de México|Ciudad de México|03501|09|03501||09|003|0577|Urbano|04
+04120|San Mateo|Colonia|Coyoacán|Ciudad de México|Ciudad de México|03501|09|03501||09|003|0578|Urbano|04
+04200|Campestre Churubusco|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0580|Urbano|04
+04210|Churubusco Country Club|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0582|Urbano|04
+04230|Prado Churubusco|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0584|Urbano|04
+04240|Hermosillo|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0586|Urbano|04
+04250|Paseos de Taxqueña|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0587|Urbano|04
+04260|San Francisco Culhuacán Barrio de San Francisco|Barrio|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||02|003|0590|Urbano|04
+04260|San Francisco Culhuacán Barrio de La Magdalena|Barrio|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||02|003|2807|Urbano|04
+04260|San Francisco Culhuacán Barrio de Santa Ana|Barrio|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||02|003|2808|Urbano|04
+04260|San Francisco Culhuacán Barrio de San Juan|Barrio|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||02|003|2831|Urbano|04
+04300|Ajusco|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0596|Urbano|04
+04310|Romero de Terreros|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0601|Urbano|04
+04318|Oxtopulco Universidad|Barrio|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||02|003|0603|Urbano|04
+04320|Cuadrante de San Francisco|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0606|Urbano|04
+04320|Pedregal de San Francisco|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0608|Urbano|04
+04330|El Rosedal|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04331|09|04331||09|003|0612|Urbano|04
+04330|Los Reyes|Pueblo|Coyoacán|Ciudad de México|Ciudad de México|04331|09|04331||28|003|0613|Urbano|04
+04330|Del Niño Jesús|Barrio|Coyoacán|Ciudad de México|Ciudad de México|04331|09|04331||02|003|0614|Urbano|04
+04340|Copilco El Bajo|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0622|Urbano|04
+04360|Copilco El Alto|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0632|Urbano|04
+04360|Copilco Universidad|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0633|Urbano|04
+04369|Pedregal de Santo Domingo|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0636|Urbano|04
+04370|Atlántida|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0637|Urbano|04
+04370|Ciudad Jardín|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0638|Urbano|04
+04380|El Rosario|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0640|Urbano|04
+04380|La Candelaria|Pueblo|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||28|003|0641|Urbano|04
+04390|Huayamilpas|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0643|Urbano|04
+04390|Nueva Díaz Ordaz|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0644|Urbano|04
+04400|Educación|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0645|Urbano|04
+04410|Petrolera Taxqueña|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0646|Urbano|04
+04420|Ex-Ejido de San Francisco Culhuacán|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0649|Urbano|04
+04440|Culhuacán CTM Sección V|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0651|Urbano|04
+04440|Culhuacán CTM Sección II|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|2810|Urbano|04
+04440|Culhuacán CTM Sección I|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|2811|Urbano|04
+04450|El Centinela|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0652|Urbano|04
+04460|Avante|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0653|Urbano|04
+04470|Presidentes Ejidales 1a Sección|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0655|Urbano|04
+04470|Presidentes Ejidales 2a Sección|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|2805|Urbano|04
+04480|Culhuacán CTM Sección VI|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0657|Urbano|04
+04480|Culhuacán CTM Sección III|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|2809|Urbano|04
+04480|Culhuacán CTM CROC|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|2812|Urbano|04
+04480|Culhuacán CTM Sección X-A|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|2815|Urbano|04
+04489|Culhuacán CTM Sección VII|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0658|Urbano|04
+04490|Culhuacán CTM Sección Piloto|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0659|Urbano|04
+04490|Culhuacán CTM Canal Nacional|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|2813|Urbano|04
+04500|Jardines del Pedregal de San Ángel|Colonia|Coyoacán|Ciudad de México|Ciudad de México|14391|09|14391||09|003|0660|Urbano|04
+04510|Universidad Nacional Autónoma de México|Equipamiento|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||17|003|2793|Urbano|04
+04519|La Otra Banda|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0664|Urbano|04
+04530|Insurgentes Cuicuilco|Colonia|Coyoacán|Ciudad de México|Ciudad de México|14391|09|14391||09|003|0665|Urbano|04
+04600|Pedregal de Santa Úrsula|Colonia|Coyoacán|Ciudad de México|Ciudad de México|14391|09|14391||09|003|0669|Urbano|04
+04610|Xotepingo|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0670|Urbano|04
+04620|San Pablo Tepetlapa|Pueblo|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||28|003|0671|Urbano|04
+04630|Adolfo Ruiz Cortínes|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0672|Urbano|04
+04640|El Reloj|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0673|Urbano|04
+04650|Santa Úrsula Coapa|Pueblo|Coyoacán|Ciudad de México|Ciudad de México|14391|09|14391||28|003|0676|Urbano|04
+04660|Joyas del Pedregal|Colonia|Coyoacán|Ciudad de México|Ciudad de México|14391|09|14391||09|003|0677|Urbano|04
+04700|Pedregal de Carrasco|Colonia|Coyoacán|Ciudad de México|Ciudad de México|14391|09|14391||09|003|0678|Urbano|04
+04710|Olímpica|Colonia|Coyoacán|Ciudad de México|Ciudad de México|14391|09|14391||09|003|0680|Urbano|04
+04730|Cantil del Pedregal|Colonia|Coyoacán|Ciudad de México|Ciudad de México|14391|09|14391||09|003|0686|Urbano|04
+04730|Bosques de Tetlameya|Colonia|Coyoacán|Ciudad de México|Ciudad de México|14391|09|14391||09|003|0687|Urbano|04
+04739|El Caracol|Colonia|Coyoacán|Ciudad de México|Ciudad de México|14391|09|14391||09|003|0690|Urbano|04
+04800|Alianza Popular Revolucionaria|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0691|Urbano|04
+04800|Los Cedros|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0692|Urbano|04
+04810|Prados de Coyoacán|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0695|Urbano|04
+04815|Emiliano Zapata|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0696|Urbano|04
+04830|Los Cipreses|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0697|Urbano|04
+04840|Ex-Ejido de San Pablo Tepetlapa|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|2806|Urbano|04
+04870|Espartaco|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0706|Urbano|04
+04890|Jardines de Coyoacán|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0708|Urbano|04
+04890|Los Olivos|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0709|Urbano|04
+04899|El Parque de Coyoacán|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0711|Urbano|04
+04909|Culhuacán CTM Sección VIII|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0714|Urbano|04
+04909|Culhuacán CTM Sección IX-A|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0715|Urbano|04
+04909|Culhuacán CTM Sección IX-B|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|2814|Urbano|04
+04910|Carmen Serdán|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0716|Urbano|04
+04918|Cafetales|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0717|Urbano|04
+04919|Emiliano Zapata Fraccionamiento Popular|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0718|Urbano|04
+04920|Los Girasoles|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0719|Urbano|04
+04929|Las Campanas|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0723|Urbano|04
+04930|Santa Cecilia|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0724|Urbano|04
+04938|Campestre Coyoacán|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0725|Urbano|04
+04939|Culhuacán CTM Sección X|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0726|Urbano|04
+04940|Los Sauces|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0727|Urbano|04
+04950|El Mirador|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0728|Urbano|04
+04960|Villa Quietud|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0729|Urbano|04
+04970|Haciendas de Coyoacán|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0730|Urbano|04
+04980|Ex-Ejido de Santa Úrsula Coapa|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0674|Urbano|04
+04980|Ex-Hacienda Coapa|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|0731|Urbano|04
+04980|Viejo Ejido de Santa Úrsula Coapa|Colonia|Coyoacán|Ciudad de México|Ciudad de México|04831|09|04831||09|003|2792|Urbano|04
+05000|Cuajimalpa|Colonia|Cuajimalpa de Morelos|Ciudad de México|Ciudad de México|05501|09|05501||09|004|0732|Urbano|05
+05010|Zentlapatl|Colonia|Cuajimalpa de Morelos|Ciudad de México|Ciudad de México|05501|09|05501||09|004|0735|Urbano|05
+05020|Loma del Padre|Colonia|Cuajimalpa de Morelos|Ciudad de México|Ciudad de México|05501|09|05501||09|004|0736|Urbano|05
+05030|San Pedro|Colonia|Cuajimalpa de Morelos|Ciudad de México|Ciudad de México|05501|09|05501||09|004|0737|Urbano|05
+05030|La Manzanita|Colonia|Cuajimalpa de Morelos|Ciudad de México|Ciudad de México|05501|09|05501||09|004|2867|Urbano|05
+05050|San Pablo Chimalpa|Pueblo|Cuajimalpa de Morelos|Ciudad de México|Ciudad de México|05501|09|05501||28|004|0740|Urbano|05
+05100|Lomas de Vista Hermosa|Colonia|Cuajimalpa de Morelos|Ciudad de México|Ciudad de México|05501|09|05501||09|004|0746|Urbano|05
+05110|Cooperativa Palo Alto|Colonia|Cuajimalpa de Morelos|Ciudad de México|Ciudad de México|05501|09|05501||09|004|0748|Urbano|05
+05118|Granjas Palo Alto|Colonia|Cuajimalpa de Morelos|Ciudad de México|Ciudad de México|05501|09|05501||09|004|0751|Urbano|05
+05119|Campestre Palo Alto|Colonia|Cuajimalpa de Morelos|Ciudad de México|Ciudad de México|05501|09|05501||09|004|0752|Urbano|05
+05120|Bosques de las Lomas|Colonia|Cuajimalpa de Morelos|Ciudad de México|Ciudad de México|05501|09|05501||09|004|0753|Urbano|05
+05129|Lomas del Chamizal|Colonia|Cuajimalpa de Morelos|Ciudad de México|Ciudad de México|05501|09|05501||09|004|0758|Urbano|05
+05200|San José de los Cedros|Colonia|Cuajimalpa de Morelos|Ciudad de México|Ciudad de México|05501|09|05501||09|004|0766|Urbano|05
+05219|Granjas Navidad|Colonia|Cuajimalpa de Morelos|Ciudad de México|Ciudad de México|05501|09|05501||09|004|0768|Urbano|05
+05220|Tepetongo|Colonia|Cuajimalpa de Morelos|Ciudad de México|Ciudad de México|05501|09|05501||09|004|0769|Urbano|05
+05230|El Ébano|Colonia|Cuajimalpa de Morelos|Ciudad de México|Ciudad de México|05501|09|05501||09|004|0770|Urbano|05
+05240|El Molino|Colonia|Cuajimalpa de Morelos|Ciudad de México|Ciudad de México|05501|09|05501||09|004|0774|Urbano|05
+05260|Jesús del Monte|Colonia|Cuajimalpa de Morelos|Ciudad de México|Ciudad de México|05501|09|05501||09|004|0777|Urbano|05
+05269|Amado Nervo|Colonia|Cuajimalpa de Morelos|Ciudad de México|Ciudad de México|05501|09|05501||09|004|0780|Urbano|05
+05270|Manzanastitla|Colonia|Cuajimalpa de Morelos|Ciudad de México|Ciudad de México|05501|09|05501||09|004|0782|Urbano|05
+05280|Adolfo López Mateos|Colonia|Cuajimalpa de Morelos|Ciudad de México|Ciudad de México|05501|09|05501||09|004|0783|Urbano|05
+05310|El Molinito|Colonia|Cuajimalpa de Morelos|Ciudad de México|Ciudad de México|05501|09|05501||09|004|0785|Urbano|05
+05320|El Yaqui|Colonia|Cuajimalpa de Morelos|Ciudad de México|Ciudad de México|05501|09|05501||09|004|0786|Urbano|05
+05330|Lomas de Memetla|Colonia|Cuajimalpa de Morelos|Ciudad de México|Ciudad de México|05501|09|05501||09|004|0787|Urbano|05
+05330|Memetla|Colonia|Cuajimalpa de Morelos|Ciudad de México|Ciudad de México|05501|09|05501||09|004|0788|Urbano|05
+05330|Ampliación Memetla|Colonia|Cuajimalpa de Morelos|Ciudad de México|Ciudad de México|05501|09|05501||09|004|0789|Urbano|05
+05330|Ampliación el Yaqui|Colonia|Cuajimalpa de Morelos|Ciudad de México|Ciudad de México|05501|09|05501||09|004|2869|Urbano|05
+05348|Santa Fe Cuajimalpa|Colonia|Cuajimalpa de Morelos|Ciudad de México|Ciudad de México|05501|09|05501||09|004|0792|Urbano|05
+05360|Locaxco|Colonia|Cuajimalpa de Morelos|Ciudad de México|Ciudad de México|05501|09|05501||09|004|0794|Urbano|05
+05370|Las Tinajas|Colonia|Cuajimalpa de Morelos|Ciudad de México|Ciudad de México|05501|09|05501||09|004|0797|Urbano|05
+05379|Lomas de San Pedro|Colonia|Cuajimalpa de Morelos|Ciudad de México|Ciudad de México|05501|09|05501||09|004|0799|Urbano|05
+05400|El Tianguillo|Colonia|Cuajimalpa de Morelos|Ciudad de México|Ciudad de México|05501|09|05501||09|004|0800|Urbano|05
+05410|San Lorenzo Acopilco|Pueblo|Cuajimalpa de Morelos|Ciudad de México|Ciudad de México|05501|09|05501||28|004|0801|Urbano|05
+05410|1° de Mayo|Colonia|Cuajimalpa de Morelos|Ciudad de México|Ciudad de México|05501|09|05501||09|004|2866|Urbano|05
+05500|Contadero|Colonia|Cuajimalpa de Morelos|Ciudad de México|Ciudad de México|05501|09|05501||09|004|0803|Urbano|05
+05520|La Venta|Colonia|Cuajimalpa de Morelos|Ciudad de México|Ciudad de México|05501|09|05501||09|004|0808|Urbano|05
+05530|Abdías García Soto|Colonia|Cuajimalpa de Morelos|Ciudad de México|Ciudad de México|05501|09|05501||09|004|0809|Urbano|05
+05600|San Mateo Tlaltenango|Pueblo|Cuajimalpa de Morelos|Ciudad de México|Ciudad de México|05501|09|05501||28|004|0810|Urbano|05
+05610|Santa Rosa Xochiac|Pueblo|Cuajimalpa de Morelos|Ciudad de México|Ciudad de México|05501|09|05501||28|004|2868|Urbano|05
+05700|Cruz Blanca|Colonia|Cuajimalpa de Morelos|Ciudad de México|Ciudad de México|05501|09|05501||09|004|0819|Urbano|05
+05710|Las Maromas|Colonia|Cuajimalpa de Morelos|Ciudad de México|Ciudad de México|05501|09|05501||09|004|0820|Urbano|05
+
+

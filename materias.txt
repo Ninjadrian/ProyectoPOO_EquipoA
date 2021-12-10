@@ -1,0 +1,45 @@
+Sistemas distribuidos
+Fundamentos de Systemas embebidos
+Organización y arquitectura de computadoras
+Redes de datos seguras
+Ética profesional
+Computación gráfica e interacción humano-computadora
+Microcomputadoras
+Optativa(s) de ciencias sociales y humanidades
+Introducción a la economía
+Sistemas de comunicaciones
+Compiladores
+Inteligencia artificial
+Diseño digital VLSI
+Finanzas en la ingeniería en computación
+Administración de proyectos de software
+Circuitos electrónicos
+Bases de datos
+Diseño digital moderno
+Systemas operativos
+Ingeniería de software
+Señales y Systemas
+Lenguajes formales y autómatas
+Dispositivos electrónicos
+Estructura y programación de computadoras
+Estructuras discretas
+Matemáticas avanzadas
+Análisis numérico
+Electricidad y magnetismo
+Fundamentos de estadística
+Programación orientada a objetos
+Estructura de datos y algoritmos II
+Cultura y comunicación
+Ecuaciones diferenciales
+Cálculo vectorial
+Probabilidad
+Estructura de datos y algoritmos I
+Redacción y exposición de temas de ingeniería
+Mecánica
+Cálculo integral
+Álgebra lineal
+fundamentos de programación
+Fundamentos de física
+Química
+Cálculo y geometría analítica
+Álgebra
