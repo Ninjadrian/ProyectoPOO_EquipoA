@@ -10,6 +10,7 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.util.ArrayList;
 
 /**
  *
@@ -31,9 +32,9 @@ public class Colegio {
 
 		String[] nombres = { "Andres","Angel","Amy","Alondra","Alison","Adrian", "David","Brenda", "Berenice", "Braulio", "Brayan", "Carmen", "Carlos", "Charlie","Caridad",
 				"David", "Dana", "Diana", "Daniel", "Dayana", "Emiliano", "Elizabeth", "Emily", "Eduardo", "Emir", "Fausto","Fabiola","Isabela","Ian","Gabriela","Hugo",
-				"Johana", "Joaquín", "Lalo","Mauricio","María","Mía","Omar", "Olivia", "Pablo", "Paulina", "Paola", "Ramon", "Rita", "Romina", "Susana", "Simon", "Samantha","Yahel", "Yamina"};
-		String[] apellidos = {"Ávalos","Arellano","Arreola","Atonal","Álvarez","Arias","Ballesteros", "Briseño", "Baena", "Báez", "Calderón", "Castilla", "Cabello","Calleja",
-				"Durán", "Duval", "Díaz", "Domínguez", "Dayana", "De La Rosa", "Escalante", "Espinosa", "Eslava", "Estrada", "Flores","Franco","Iglesias","Gomez","Gonzalez","Huerta","Garcia",
+				"Johana", "Joaquin", "Lalo","Mauricio","Maria","Mia","Omar", "Olivia", "Pablo", "Paulina", "Paola", "Ramon", "Rita", "Romina", "Susana", "Simon", "Samantha","Yahel", "Yamina"};
+		String[] apellidos = {"Avalos","Arellano","Arreola","Atonal","Alvarez","Arias","Ballesteros", "Briseño", "Baena", "Baez", "Calderon", "Castilla", "Cabello","Calleja",
+				"Duran", "Duval", "Diaz", "Domínguez", "Dayana", "De La Rosa", "Escalante", "Espinosa", "Eslava", "Estrada", "Flores","Franco","Iglesias","Gomez","Gonzalez","Huerta","Garcia",
 				"Hernandez", "Lazcano","Lopez", "Martinez","Macias","Morales","Monroy", "Ochoa", "Parra", "Pascual", "Peña", "Pardo","Rangel", "Ramos", "Rivera", "Suarez", "Soto", "Sosa","Tapia",
                                 "Torres","Urbina","Valencia","Vallejo","Varela","Vargas","Vega", "Yamamoto"};
  
@@ -55,39 +56,55 @@ public class Colegio {
         
 	public static void generarDatos(String[] nombresGenerados) {
            
-            try {
-                int sem, edad;
-                BufferedReader br;
-                FileReader fr = new FileReader("CPdescarga.txt");
+            try {   
+                int sem, edad = 0, mat, num;
+                BufferedReader br, br2;
+                                
+                FileReader fr = new FileReader("CPdescarga.txt");               
                 br = new BufferedReader(fr);
                 String linea = br.readLine();
+                 
 
-                FileWriter fw = new FileWriter("Registros.csv");
-                PrintWriter salida = new PrintWriter(fw);
+                FileWriter fw2 = new FileWriter("Registros.csv");
+                PrintWriter salida = new PrintWriter(fw2);
                 
-                salida.print("Nombre,Dirección,Semestre,Edad\n");
+                salida.print("Nombre,Direccion,Semestre,Edad,Matricula\n");                
                 
                 for (String nombresGenerado : nombresGenerados) {
-                    sem = (int) (Math.random() * 10 + 02);
-                    edad = (int) (Math.random() * 27 + 18);
-                    salida.println(nombresGenerado+","+linea+","+sem+","+edad);
-                    linea = br.readLine();
+                    sem = (int) (Math.random() * (10-2+1)+2);
+                    switch(sem){
+                        case 2: edad = (int) (Math.random() * (23-18+1)+18);
+                        case 3: edad = (int) (Math.random() * (23-19+1)+19);
+                        case 4: edad = (int) (Math.random() * (24-19+1)+19);
+                        case 5: edad = (int) (Math.random() * (25-20+1)+20);
+                        case 6: edad = (int) (Math.random() * (25-20+1)+20);
+                        case 7: edad = (int) (Math.random() * (26-21+1)+21);
+                        case 8: edad = (int) (Math.random() * (26-21+1)+21);
+                        case 9: edad = (int) (Math.random() * (26-22+1)+22);
+                        case 10: edad = (int) (Math.random() * (27-22+1)+22);
+                    }
+                                            
+                
+                    mat = (int) (Math.random() * (498765432-301234567+1)+301234567);
                     
+                    salida.println(nombresGenerado+","+linea+","+sem+","+edad+","+mat);
+                    linea = br.readLine();                    
                 }
+                
+                
                 br.close();
-                salida.close();               
+                salida.close();    
+                
             
             } catch (IOException ex) {
                 System.out.println(ex.getCause());
             }
-	}
-        
-        
+	}        
         
         public static void registrosAcademicos(){
         
         int num;
-        num = (int) (Math.random() * 46 + 5);
+        num = (int) (Math.random() * (46-5+1)+5);
         
             try { 
                                
@@ -139,11 +156,11 @@ public class Colegio {
                     case 42: salida2.println("Redacción y exposición de temas de ingeniería");
                     case 43: salida2.println("Mecánica");
                     case 44: salida2.println("Cálculo integral");
-                    case 45: salida2.println("Álgebra lineal");
-                    case 46: salida2.println("fundamentos de programación");
-                    case 47: salida2.println("Fundamentos de física");
-                    case 48: salida2.println("Química");
-                    case 49: salida2.println("Cálculo y geometría analítica");
+                    case 45: salida2.println("Álgebra lineal,");
+                    case 46: salida2.println("Fsundamentos de programación,");
+                    case 47: salida2.println("Fundamentos de física,");
+                    case 48: salida2.println("Química,");
+                    case 49: salida2.println("Cálculo y geometría analítica,");
                     case 50: salida2.println("Álgebra");            
                     }               
                 salida2.close();                           
@@ -160,7 +177,9 @@ public class Colegio {
         frm.setVisible(true);
         // TODO code application logic here
         generarDatos(generarNombresAleatorios(500));
-        //registrosAcademicos();
+        registrosAcademicos();
+        Alumno alu = new Alumno("A","S","V","d");
+        System.out.println(alu);
     }
     
 }
